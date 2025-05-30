@@ -1,217 +1,152 @@
-# <div align="center">🚀 Welcome to Kurmiz's Digital Universe 🌌</div>
+# <div align="center">Hi 👋, I'm Kurmiz</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=KURMIZ&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect%20%7C%20Digital%20Innovator&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Specialist;Passionate+Coder;Always+Learning" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=const+developer+%3D+%7B;++name%3A+'Kurmiz'%2C;++passion%3A+'Crafting+Digital+Magic'%7D%3B" alt="Code Intro"/>
-</div>
-
-<br/>
-
-<!-- Custom Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%"/>
-</div>
-
-## <div align="center">🔥 **MATRIX: DEVELOPER INITIALIZATION** 🔥</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=ACCESSING+DEVELOPER+PROFILE...;LOADING+SKILLS+DATABASE...;ESTABLISHING+CONNECTION...;STATUS%3A+ONLINE+%E2%9C%85;READY+FOR+COLLABORATION!" alt="Matrix Loading"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding"/>
 </div>
 
 <br/>
 
-<!-- Unique Profile Stats Card -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=100&section=header&text=DEVELOPER%20METRICS&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
-</div>
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+I'm a passionate **Full Stack Developer** from India 🇮🇳 who loves creating innovative web solutions and turning ideas into reality.
+
+- 🔭 Currently working on **Full Stack Web Applications**
+- 🌱 Learning **Advanced React & Node.js**
+- 👯 Open to **collaboration** on exciting projects
+- 💬 Ask me about **JavaScript, React, Python, Java**
+- 📫 Reach me at: **kurmiabhay11@gmail.com**
+- ⚡ Fun fact: **Coffee + Code = Perfect Day! ☕**
+
+<br/>
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Experience-3%2B%20Years-FF6B6B?style=for-the-badge&labelColor=1a1a1a&logo=target&logoColor=FF6B6B"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Projects-25%2B-4ECDC4?style=for-the-badge&labelColor=1a1a1a&logo=rocket&logoColor=4ECDC4"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Coffee-∞%20Cups-F7DC6F?style=for-the-badge&labelColor=1a1a1a&logo=buymeacoffee&logoColor=F7DC6F"/>
-      </td>
-    </tr>
-  </table>
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
 </div>
 
 <br/>
 
-## <div align="center">⚡ **NEURAL NETWORK: SKILL ARCHITECTURE** ⚡</div>
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,php,nodejs,react,mongodb,mysql,git,github&theme=dark&perline=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurmiz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurmiz&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurmiz&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=1F6FEB&dates=C9D1D9&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<!-- Unique Animated Skill Bars -->
+---
+
+## 🏆 Achievements
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Frontend+Development+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+95%25;Backend+Architecture+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;Database+Design+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+85%25;Problem+Solving+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Skill Bars"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kurmiz&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
-<!-- Revolutionary Tech Stack Display -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,30&height=80&section=header&text=TECHNOLOGY%20ARSENAL&fontSize=25&fontColor=fff&animation=blinking" width="100%"/>
-</div>
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br/><strong>Java</strong>
-      <br/><sub>Enterprise Solutions</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br/><strong>JavaScript</strong>
-      <br/><sub>Dynamic Web Apps</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br/><strong>Python</strong>
-      <br/><sub>AI & Automation</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br/><strong>React</strong>
-      <br/><sub>Modern UI/UX</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
-      <br/><strong>Node.js</strong>
-      <br/><sub>Server Architecture</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
-      <br/><strong>MongoDB</strong>
-      <br/><sub>NoSQL Database</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br/><strong>MySQL</strong>
-      <br/><sub>Relational DB</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
-      <br/><strong>PHP</strong>
-      <br/><sub>Web Development</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## <div align="center">📊 **QUANTUM ANALYTICS DASHBOARD** 📊</div>
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=PERFORMANCE%20METRICS&fontSize=30&fontColor=fff&animation=scaleIn&fontAlignY=70" width="100%"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kurmiz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_radius=15"/>
-      </td>
-      <td align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurmiz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=15"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurmiz&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=F7DC6F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurmiz&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </div>
 
 <br/>
 
-## <div align="center">🌟 **HOLOGRAPHIC ACHIEVEMENT VAULT** 🌟</div>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kurmiz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <a href="mailto:kurmiabhay11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://fb.com/subash%20yadav">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/subashyadav9285">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/kurmiz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Unique Contact Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=200&section=header&text=ESTABLISH%20CONNECTION&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Let's%20Build%20Something%20Amazing%20Together&descSize=18&descAlignY=55" width="100%"/>
-</div>
+---
+
+## 💭 Developer Quote
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:kurmiabhay11@gmail.com">
-          <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://fb.com/subash%20yadav">
-          <img src="https://img.shields.io/badge/Facebook-4ECDC4?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a1a" alt="Facebook"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://instagram.com/subashyadav9285">
-          <img src="https://img.shields.io/badge/Instagram-F7DC6F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" alt="Instagram"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote"/>
 </div>
 
 <br/>
 
-<!-- Revolutionary Quote Section -->
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22;%22Simplicity+is+the+soul+of+efficiency.%22" alt="Dev Quotes"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+reach+out+for+collaboration;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Message"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kurmiz&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <br/>
 
-<!-- Unique Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurmiz&theme=redical&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=F7DC6F&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20MATRIX" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- Profile Counter with Style -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kurmiz&style=for-the-badge&color=FF6B6B&labelColor=1a1a1a&label=DIGITAL+VISITORS" alt="Profile Views"/>
-</div>
-
-<br/>
-
-<!-- Final Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+digital+realm!;Let's+create+something+extraordinary+together!;The+future+is+built+one+commit+at+a+time.+%F0%9F%9A%80" alt="Footer Message"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
